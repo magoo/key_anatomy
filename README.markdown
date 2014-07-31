@@ -3,11 +3,10 @@
 _Step by step code to creating a Bitcoin address and WIF from an ECDSA Private key in Ruby_
 
 Guides and tests to support this code:
--These were made along these guides:
--https://en.bitcoin.it/wiki/Protocol_specification#Addresses
--https://en.bitcoin.it/wiki/Wallet_import_format
--http://gobittest.appspot.com/PrivateKey
--http://gobittest.appspot.com/Address
+- https://en.bitcoin.it/wiki/Protocol_specification#Addresses
+- https://en.bitcoin.it/wiki/Wallet_import_format
+- http://gobittest.appspot.com/PrivateKey
+- http://gobittest.appspot.com/Address
 
 ##Example Output
 ```bash
