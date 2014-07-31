@@ -3,7 +3,7 @@
 _Step by step code to creating a Bitcoin address and WIF from an ECDSA Private key in Ruby_
 
 ##Example Output
-```$ ./make_address.rb 
+$ ./make_address.rb 
 Creating Private Key into Wallet Interchangeable Format (WIF)
 1. Private Key (No Hex): 94723488344897890789372051334519144002268461040338394279781891644811979205171
 2. Private Key (Hex): D16B982FD5AAA895B0E7BA1EEECCC9DE40F73F371633CFF7507E2C76E24B2A33
@@ -23,5 +23,5 @@ Deriving BTC Address from Public Key
 6. Round Two SHA 1110f3aa1c0afafeb04a3901427bbf2f0d7a2d0b4792ce5992bcdf9905d112e6
 7. Public Key Checksum: 1110f3aa
 8. Pre-Base58: 006ff745e906dd9e179b69a5ef4629e7718c0434da1110f3aa
-9. Public Address: 1BD2E8T8pbxuBjia5Ke5UMsxooBn8SHMKP```
+9. Public Address: 1BD2E8T8pbxuBjia5Ke5UMsxooBn8SHMKP
 
